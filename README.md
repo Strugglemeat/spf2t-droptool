@@ -5,4 +5,5 @@ compile with "gcc droptool.c"
 place the file 'pzfe.03' in the same directory as the executable
 
 outputs to terminal using ANSI colors
+
 executable only tested on windows but should work in linux and macos
